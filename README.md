@@ -24,3 +24,4 @@ There are fifteen possible pairings of the five gestures. Each gesture beats two
 * https://www.youtube.com/watch?v=_PUEoDYpUyQ
 * http://apoie.org/Dojo.html
 
+Realizado em 2014 pelo time da Agrotools do qual eu fazia parte na época :D
